@@ -42,12 +42,12 @@
 ## Setup
 
 git clone the project on your machine  
-locally install the npm webpack `npm install --save-dev webpack`  
+install parcel `npm install --save-dev parcel`  
 
 Scripts you can use:
 
-`npm build` - to run webpack dev-server development mode  
-`npm build` - to run production mode  
+`start` - to run parcel dev-server development mode  
+`build` - to run production mode  
 
 
 ## About Me
